@@ -1,5 +1,5 @@
 # Naive-Bayes Classifier (Data Science)
-![Data science](https://user-images.githubusercontent.com/62568619/93029005-5973bc00-f5ee-11ea-9376-eaccf42cad6e.jpg)
+![Data science](https://user-images.githubusercontent.com/62568619/93029134-72c93800-f5ef-11ea-85cd-67ea58f51cc8.jpg)
 ## PT/BR 
 Esse projeto tem como objetivo realizar um classificador Naive-Bayes através de Tweets sobre o novo Iphone 11. Realizado pelos alunos de engenharia Gustavo Camargo e Tiago Seixas da universidade INSPER.
 

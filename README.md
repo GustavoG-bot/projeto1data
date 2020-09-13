@@ -1,4 +1,4 @@
-# Classificador Naive-Bayes / Naive-Bayes Classifier (Data Science)
+# Naive-Bayes Classifier (Data Science)
 
 # PT/BR 
 Esse projeto tem como objetivo realizar um classificador Naive-Bayes através de Tweets sobre o novo Iphone 11. Realizado pelos alunos de engenharia Gustavo Camargo e Tiago Seixas da universidade INSPER.
